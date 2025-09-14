@@ -1,0 +1,14 @@
+C:\Users\marina\source\repos\derevo\bin\Debug\net8.0\derevo.exe
+C:\Users\marina\source\repos\derevo\bin\Debug\net8.0\derevo.deps.json
+C:\Users\marina\source\repos\derevo\bin\Debug\net8.0\derevo.runtimeconfig.json
+C:\Users\marina\source\repos\derevo\bin\Debug\net8.0\derevo.dll
+C:\Users\marina\source\repos\derevo\bin\Debug\net8.0\derevo.pdb
+C:\Users\marina\source\repos\derevo\obj\Debug\net8.0\derevo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\source\repos\derevo\obj\Debug\net8.0\derevo.AssemblyInfoInputs.cache
+C:\Users\marina\source\repos\derevo\obj\Debug\net8.0\derevo.AssemblyInfo.cs
+C:\Users\marina\source\repos\derevo\obj\Debug\net8.0\derevo.csproj.CoreCompileInputs.cache
+C:\Users\marina\source\repos\derevo\obj\Debug\net8.0\derevo.dll
+C:\Users\marina\source\repos\derevo\obj\Debug\net8.0\refint\derevo.dll
+C:\Users\marina\source\repos\derevo\obj\Debug\net8.0\derevo.pdb
+C:\Users\marina\source\repos\derevo\obj\Debug\net8.0\derevo.genruntimeconfig.cache
+C:\Users\marina\source\repos\derevo\obj\Debug\net8.0\ref\derevo.dll

@@ -1,0 +1,14 @@
+C:\Users\marina\source\repos\X & O BETA\bin\Debug\net8.0\X & O BETA.exe
+C:\Users\marina\source\repos\X & O BETA\bin\Debug\net8.0\X & O BETA.deps.json
+C:\Users\marina\source\repos\X & O BETA\bin\Debug\net8.0\X & O BETA.runtimeconfig.json
+C:\Users\marina\source\repos\X & O BETA\bin\Debug\net8.0\X & O BETA.dll
+C:\Users\marina\source\repos\X & O BETA\bin\Debug\net8.0\X & O BETA.pdb
+C:\Users\marina\source\repos\X & O BETA\obj\Debug\net8.0\X & O BETA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\source\repos\X & O BETA\obj\Debug\net8.0\X & O BETA.AssemblyInfoInputs.cache
+C:\Users\marina\source\repos\X & O BETA\obj\Debug\net8.0\X & O BETA.AssemblyInfo.cs
+C:\Users\marina\source\repos\X & O BETA\obj\Debug\net8.0\X & O BETA.csproj.CoreCompileInputs.cache
+C:\Users\marina\source\repos\X & O BETA\obj\Debug\net8.0\X & O BETA.dll
+C:\Users\marina\source\repos\X & O BETA\obj\Debug\net8.0\refint\X & O BETA.dll
+C:\Users\marina\source\repos\X & O BETA\obj\Debug\net8.0\X & O BETA.pdb
+C:\Users\marina\source\repos\X & O BETA\obj\Debug\net8.0\X & O BETA.genruntimeconfig.cache
+C:\Users\marina\source\repos\X & O BETA\obj\Debug\net8.0\ref\X & O BETA.dll

@@ -11,9 +11,11 @@
 Для анализа потока данных между сервером и клиентом нами было выбрано мобильное приложение OSU
 (ничего лучше непридумали)
 <img width="2560" height="1370" alt="image" src="https://github.com/user-attachments/assets/8f1c283f-8bf9-4d8a-9234-6986def99e80" />
+
 ### Нулевой уровень
 
 <img width="2560" height="1384" alt="image" src="https://github.com/user-attachments/assets/e93637f9-d695-456f-b023-adb453edd9d1" />
+
 ### Первый уровень
 
 # Выводы

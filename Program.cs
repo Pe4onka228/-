@@ -95,7 +95,7 @@ Console.WriteLine("\t\t\t\t\tПРИВЕТСТВУЮ В ИГРЕ #MORE KORABLIKI 
 Console.ReadKey();
 Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\tИГРОК НОМЕР 1, ВВЕДИТЕ СВОЁ ИМЯ");
 Console.WriteLine("\t\t\t\t(Ник, погоняло, кличку своей собаки, мне по барабану, что вы введёте)");
-Console.WriteLine("\t\t\t\t\t(У русских есть секретная техника инвиза!:O)\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+Console.WriteLine("\t\t\t\t\t(У русских есть секретная техника инвиза!-_-)\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
 Console.ResetColor();
 name1 = Console.ReadLine();
 Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\tТЕПЕРЬ ИГРОК НОМЕР 2, ВВЕДИТЕ СВОЁ ИМЯ\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
@@ -143,7 +143,7 @@ void GameField1()              //Вывод поля с расстановкой
 
 void GameField2()      //Вывод поля с расстановкой игрока 2
 {
-    Console.WriteLine($"\n\n\n\n\n\n\t\t\t\t\t\t  A B V G D E J Z I K");
+    Console.WriteLine($"\n\n\t\t\t\t\t\t  A B V G D E J Z I K");
     for (int i = 1; i <= GF2.GetLength(0) - 2; i++)
     {
         Console.ResetColor();
@@ -405,7 +405,7 @@ void ShipPlacement2()
         }
         while (keyInput != ConsoleKey.Enter);
 
-        Console.WriteLine($"\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t{name2}, ВЫБЕРИТЕ КЛЕТКУ НА КОТОРОЙ БУДЕТ СТОЯТЬ ВАШ KORABLIK [в виде (A1)]");
+        Console.WriteLine($"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t{name2}, ВЫБЕРИТЕ КЛЕТКУ НА КОТОРОЙ БУДЕТ СТОЯТЬ ВАШ KORABLIK [в виде (A1)]");
         GameField2();
         string plaeyrchoice = Convert.ToString(Console.ReadLine());
         string PLCH = plaeyrchoice.ToUpper();
@@ -626,7 +626,7 @@ class NavalBattle
     public int ShipsOstalos { get; private set; }
     public bool da = false;
 
-    // Добавляем поля для отслеживания расставленных кораблей
+    // Добавляем отслеживания расставленных кораблей
     public bool[,] ShipPositions { get; private set; }
     public int[] ShipsToPlace { get; private set; }
     public int CurrentShipIndex { get; private set; }
@@ -636,7 +636,7 @@ class NavalBattle
         PlayerName = name;
         ShipsOstalos = 20; //10 кораблей всего(наверное)?, а бля их 20
         ShipPositions = new bool[12, 12]; // поле 12x12 с границами
-        ShipsToPlace = new int[] { 4, 3, 3, 2, 2, 2, 1, 1, 1, 1 }; // 1x4, 2x3, 3x2, 4x1
+        ShipsToPlace = new int[] { 4, 3, 3, 2, 2, 2, 1, 1, 1, 1 }; // Ну там короче корабли все 1x4, 2x3, 3x2, 4x1
         CurrentShipIndex = 0;
     }
 

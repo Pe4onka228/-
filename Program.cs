@@ -496,7 +496,7 @@ void game1()                         //Сам процесс игры
                     VGF1[playerRow, playerCol] = 2;
                     status = "Попадание!";
                     shipZopa();
-                    if (player0.ShipsOstalos == 18)       // снести это хрень в будущем#
+                    if (player0.ShipsOstalos == 0)       // снести это хрень в будущем#
                     {
                         continue;
                     } 
@@ -565,7 +565,7 @@ void game2()                         //Сам процесс игры
                     VGF2[playerRow, playerCol] = 2;
                     status = "Попадание!";
                     shipZopa();
-                    if (player1.ShipsOstalos == 18)       // снести это хрень в будущем gj;fkeqcnf vyt gkj[f лабу дабу даб даб! оно ещё и не работает#
+                    if (player1.ShipsOstalos == 0)       // снести это хрень в будущем gj;fkeqcnf vyt gkj[f лабу дабу даб даб! оно ещё и не работает#
                     {
                         continue;
                     }
@@ -737,3 +737,4 @@ class NavalBattle
     }
 
 }
+

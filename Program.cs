@@ -644,7 +644,8 @@ class NavalBattle
     {
         if (ShipsOstalos > 0)
             ShipsOstalos--;
-        if (ShipsOstalos == 18)
+        if (ShipsOstalos == 0
+           )
             da = true;
     }
 
@@ -734,4 +735,5 @@ class NavalBattle
             return ShipsToPlace[CurrentShipIndex];
         return 0;
     }
+
 }
